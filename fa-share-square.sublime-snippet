@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[content: "\f14d";]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>fa-share-square</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scss</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Font Awesome SCSS Snippet: fa-share-square</description>
+</snippet>

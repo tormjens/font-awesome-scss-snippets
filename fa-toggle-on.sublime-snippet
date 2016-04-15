@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[content: "\f205";]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>fa-toggle-on</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scss</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Font Awesome SCSS Snippet: fa-toggle-on</description>
+</snippet>

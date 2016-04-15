@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[content: "\f0d3";]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>fa-pinterest-square</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scss</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Font Awesome SCSS Snippet: fa-pinterest-square</description>
+</snippet>

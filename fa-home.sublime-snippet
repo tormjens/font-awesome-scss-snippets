@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[content: "\f015";]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>fa-home</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scss</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Font Awesome SCSS Snippet: fa-home</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[content: "\f09b";]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>fa-github</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scss</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Font Awesome SCSS Snippet: fa-github</description>
+</snippet>

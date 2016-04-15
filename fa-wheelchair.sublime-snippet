@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[content: "\f193";]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>fa-wheelchair</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scss</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Font Awesome SCSS Snippet: fa-wheelchair</description>
+</snippet>

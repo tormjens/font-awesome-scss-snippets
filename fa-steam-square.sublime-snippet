@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[content: "\f1b7";]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>fa-steam-square</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scss</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Font Awesome SCSS Snippet: fa-steam-square</description>
+</snippet>

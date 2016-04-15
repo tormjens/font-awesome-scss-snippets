@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[content: "\f14b";]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>fa-pencil-square</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scss</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Font Awesome SCSS Snippet: fa-pencil-square</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[content: "\f1f7";]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>fa-bell-slash-o</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scss</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Font Awesome SCSS Snippet: fa-bell-slash-o</description>
+</snippet>

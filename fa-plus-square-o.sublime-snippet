@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[content: "\f196";]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>fa-plus-square-o</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scss</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Font Awesome SCSS Snippet: fa-plus-square-o</description>
+</snippet>
